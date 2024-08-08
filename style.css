@@ -1,0 +1,14 @@
+#jobs {
+    background-color: burlywood;
+    list-style-type: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 2;
+}
+.freelancersTable {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
